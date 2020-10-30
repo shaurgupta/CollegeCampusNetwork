@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T17:41:45.543Z" agent="5.0 (Macintosh)" etag="TaH9PWubqYIvOKoiUqUv" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-30T17:42:49.054Z" agent="5.0 (Macintosh)" etag="Gq_n93kr--GwDUiAR4Aw" version="13.8.8" type="github">
   <diagram id="bI_8WGi62cREWiEywfOd" name="Page-1">
     <mxGraphModel dx="946" dy="1723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -50,9 +50,6 @@
         </mxCell>
         <mxCell id="Z_AC076h5meXeRarIkGS-19" value="User operated system" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#23445d;fillColor=#bac8d3;" vertex="1" parent="1">
           <mxGeometry x="540" y="320" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Z_AC076h5meXeRarIkGS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=block;endFill=1;" edge="1" parent="1" source="Z_AC076h5meXeRarIkGS-13" target="Z_AC076h5meXeRarIkGS-13">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z_AC076h5meXeRarIkGS-23" value="SUBSCRIBERS AND CONTROL NODES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="220" height="35" as="geometry" />
